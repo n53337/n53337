@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm usef</h1>
 <h3 align="center">A passionate Web developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n53337&label=Profile%20views&color=0e75b6&style=flat" alt="n53337" /> </p>
-
-<p align="left"> <a href="https://twitter.com/n_53337" target="blank"><img src="https://img.shields.io/twitter/follow/n_53337?logo=twitter&style=for-the-badge" alt="n_53337" /></a> </p>
-
 # 💫About Me :
 
 - 🔭 I’m currently working on [uBank](https://github.com/n53337/ubnk)
