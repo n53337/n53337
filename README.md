@@ -1,6 +1,6 @@
 # Hey there ⌨️
 
-<img src="https://raw.githubusercontent.com/n53337/n53337/master/man.gif" alt="Welcome" style="display:grid;place-items:center">
+<img src="https://raw.githubusercontent.com/n53337/n53337/master/man.gif" alt="Welcome" style="width:100%">
 
 <p align="center"> 
   Visitor count<br>
