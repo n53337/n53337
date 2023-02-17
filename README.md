@@ -13,8 +13,8 @@ I'm Youssef Houffaine. A Front-end Developer who loves building beautiful user i
 
 ## Things I am passionate about
 
-- Front-end technologies :robot:
-- Computer Science :octocat:
+- Front-end technologies 🕸️
+- Computer Science 🖥️
 
 ## Get in touch
 
