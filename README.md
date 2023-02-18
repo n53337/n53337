@@ -20,7 +20,7 @@ I'm Youssef Houffaine. A Front-end Developer who loves building beautiful user i
 
 ## Get in touch
 
-- Your future buddy to discuss Web related things and tech in general on [Twitter](https://twitter.com//n_53337).
+- Your future buddy to discuss Web related things and tech in general on [Twitter](https://twitter.com/n_53337).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/youssef-houffaine-a72366252/)
 - And of course GitHub you're already on (Recursion).
 
