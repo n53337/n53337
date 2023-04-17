@@ -1,23 +1,6 @@
-# Hey there ⌨️
+# Hey ❄️
 
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <div class="tenor-gif-embed" data-postid="5800488" data-share-method="host" data-aspect-ratio="6.735" data-width="100%"><a href="https://tenor.com/view/matrix-gif-5800488">Matrix GIF</a>from <a href="https://tenor.com/search/matrix-gifs">Matrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
-
-## About me
-
-I'm Youssef Houffaine. A Front-end Developer who loves building beautiful user interfaces! 
-
-## Things I am passionate about
-
-- Front-end technologies 🕸️
-- Computer Science 🖥️
-
-## Get in touch
-
-- Your future buddy to discuss Web related things and tech in general on [Twitter](https://twitter.com/n_53337).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/youssef-houffaine-a72366252/)
-- And of course GitHub you're already on (Recursion).
-
