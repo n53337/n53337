@@ -1,4 +1,10 @@
-> "In a world of algorithms, think in functions."
+<div align="center">
+  <blockquote align="center">
+    In a world of algorithms, think in functions.
+  </blockquote>
+</div>
+
+&nbsp;
 
 ```javascript
 const aboutMe = {
