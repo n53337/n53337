@@ -1,13 +1,5 @@
 &nbsp;
 
-```javascript
-const aboutMe = {
-  name: "Youssef Houffaine (u53f)",
-  role: "Front-end Developer",
-  passion: "Creating elegant and efficient solutions",
-};
-
-return "Let's code our way to innovation!";
-```
+> "The computer was born to solve problems that did not exist before".
 
 &nbsp;
