@@ -1,5 +1,7 @@
 &nbsp;
 
-> "The computer was born to solve problems that did not exist before".
+<p align="center">
+  <img src="./white.jpg" width="100%" height="100" title="hover text">
+</p>
 
 &nbsp;
